@@ -1,3 +1,13 @@
+/* Remove small banner above the play bar */
+#view-leaderboard-ad {
+        display: none;
+}
+
+/* Remove the big banner on the home page */
+.ad-container {
+        display:none;
+}
+
 :root {
 	--bar-height: 120px;
 }
