@@ -5,7 +5,7 @@
 
 /* Remove the big banner on the home page */
 .ad-container {
-        display:none;
+        display: none;
 }
 
 :root {
