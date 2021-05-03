@@ -1,3 +1,8 @@
+/* Remove full-screen banner that shows sometimes */
+#view-billboard-ad {
+        display: none;
+}
+
 /* Remove small banner above the play bar */
 #view-leaderboard-ad {
         display: none;
