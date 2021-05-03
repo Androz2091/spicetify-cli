@@ -1,4 +1,9 @@
-/* Remove full-screen banner that shows sometimes */
+/* Remove full-screen video that sometimes shows up */
+.view-video-ad {
+        display: none;
+}
+
+/* Remove full-screen banner that sometimes shows up */
 #view-billboard-ad {
         display: none;
 }
